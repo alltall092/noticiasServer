@@ -37,15 +37,42 @@ const contactos = [
 
 const noticias = [
         {
-          titulo: 'Título del primer objeto',
-          contenido: 'Contenido del primer objeto',
+          titulo: 'JCE dará curso a denuncias de oposición sobre utilización de recursos del Estado en favor del PRM',
+          contenido: 'A través de una comunicación, firmada por el presidente de la JCE, Román Jáquez Liranzo, el pleno señaló que en virtud de lo que establece el reglamento que crea el procedimiento administrativo sancionador electoral y pone en funcionamiento la unidad de atención, seguimiento y mecanismos de ejecución de las sanciones con ocasión de las infracciones administrativas electorales y medidas cautelares que establecen las leyes que rigen el sistema político dominicano, remitirán las respectivas denuncias ante esa unidad de atención a las infracciones electorales',
           fechaPublicacion: new Date() // Se utilizará la fecha y hora actual como valor por defecto
         },
         {
-          titulo: 'Título del segundo objeto',
-          contenido: 'Contenido del segundo objeto',
+          titulo: 'Científicos buscan declarar área protegida a cordillera submarina en aguas dominicanas',
+          contenido: 'Expertos internacionales y dominicanos participan en la primera expedición científica en la Cordillera Beata, con el objetivo de declarar esas cadenas de montes submarinos del Mar Caribe (al sur del país) como área protegida oceánica, informó este domingo el Ministerio de Medio Ambiente y Recursos Naturales (MMARN)',
+    
           fechaPublicacion: new Date('2023-01-01') // Puedes establecer una fecha específica si lo deseas
         },
+        {
+          titulo: 'Científicos buscan declarar área protegida a cordillera submarina en aguas dominicanas',
+          contenido: 'Expertos internacionales y dominicanos participan en la primera expedición científica en la Cordillera Beata, con el objetivo de declarar esas cadenas de montes submarinos del Mar Caribe (al sur del país) como área protegida oceánica, informó este domingo el Ministerio de Medio Ambiente y Recursos Naturales (MMARN)',
+    
+          fechaPublicacion: new Date('2023-01-01') // Puedes establecer una fecha específica si lo deseas
+        },
+        {
+          titulo: 'Científicos buscan declarar área protegida a cordillera submarina en aguas dominicanas',
+          contenido: 'Expertos internacionales y dominicanos participan en la primera expedición científica en la Cordillera Beata, con el objetivo de declarar esas cadenas de montes submarinos del Mar Caribe (al sur del país) como área protegida oceánica, informó este domingo el Ministerio de Medio Ambiente y Recursos Naturales (MMARN)',
+    
+          fechaPublicacion: new Date('2023-01-01') // Puedes establecer una fecha específica si lo deseas
+        },
+        {
+          titulo: 'Científicos buscan declarar área protegida a cordillera submarina en aguas dominicanas',
+          contenido: 'Expertos internacionales y dominicanos participan en la primera expedición científica en la Cordillera Beata, con el objetivo de declarar esas cadenas de montes submarinos del Mar Caribe (al sur del país) como área protegida oceánica, informó este domingo el Ministerio de Medio Ambiente y Recursos Naturales (MMARN)',
+    
+          fechaPublicacion: new Date('2023-01-01') // Puedes establecer una fecha específica si lo deseas
+        },
+        
+        {
+          titulo: 'Científicos buscan declarar área protegida a cordillera submarina en aguas dominicanas',
+          contenido: 'Expertos internacionales y dominicanos participan en la primera expedición científica en la Cordillera Beata, con el objetivo de declarar esas cadenas de montes submarinos del Mar Caribe (al sur del país) como área protegida oceánica, informó este domingo el Ministerio de Medio Ambiente y Recursos Naturales (MMARN)',
+    
+          fechaPublicacion: new Date('2023-01-01') // Puedes establecer una fecha específica si lo deseas
+        },
+        
         // Puedes seguir añadiendo más objetos con la misma estructura
       
 ];

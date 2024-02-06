@@ -34,7 +34,7 @@ db.sync({ force: false })
   .catch((error) => console.log(error));
 //transporter.verify().then(()=>console.log("estamos listo para enviar correos"));
 app.get("/", (req, res) => {
-  console.log("Bienvenido al server  ");
+  res.json("Bienvenido al server ");
   
   res.end();
 });
